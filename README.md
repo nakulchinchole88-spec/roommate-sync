@@ -125,5 +125,13 @@ RESULT PAGE:-https://drive.google.com/file/d/1J4X8MFIR0K2BnucuJumqqoJ_U6OJb77J/v
 
 👥 Team – Tech Titans
 
-Team Leader:- Samarth Talwar
+Team :
+
+Samarth Talwar (Team Leader)
+
+Nakul 
+
+Sampreet
+
+Sudharma
 
