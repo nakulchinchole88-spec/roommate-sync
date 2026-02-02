@@ -9,7 +9,7 @@ match people first → find a place together.
 
 This approach reduces conflicts and creates healthier shared-living experiences.
 
-🚩 Problem Statement
+👉 Problem Statement
 
 Most roommate platforms focus on:
 
